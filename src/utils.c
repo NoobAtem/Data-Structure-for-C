@@ -29,3 +29,16 @@ T cast_data(T data, BlockType type){
       return data;
   }
 }
+
+size_t get_block_size(BlockType type){
+  switch(type){
+    case INT_T:
+      return sizeof(int);
+    case CHAR_T:
+      return sizeof(char);
+    case FLOAT_T:
+      return sizeof(float);
+    default:
+      return sizeof(void*);
+  }
+}

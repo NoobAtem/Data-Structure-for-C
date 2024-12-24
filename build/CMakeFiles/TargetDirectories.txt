@@ -1,0 +1,9 @@
+/home/dev212/Library/Data Structure/build/CMakeFiles/edit_cache.dir
+/home/dev212/Library/Data Structure/build/CMakeFiles/rebuild_cache.dir
+/home/dev212/Library/Data Structure/build/src/CMakeFiles/DS.dir
+/home/dev212/Library/Data Structure/build/src/CMakeFiles/edit_cache.dir
+/home/dev212/Library/Data Structure/build/src/CMakeFiles/rebuild_cache.dir
+/home/dev212/Library/Data Structure/build/examples/CMakeFiles/example_1.dir
+/home/dev212/Library/Data Structure/build/examples/CMakeFiles/example_2.dir
+/home/dev212/Library/Data Structure/build/examples/CMakeFiles/edit_cache.dir
+/home/dev212/Library/Data Structure/build/examples/CMakeFiles/rebuild_cache.dir

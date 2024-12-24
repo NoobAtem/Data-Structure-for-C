@@ -1,4 +1,4 @@
-#include "DS/node.h"
+#include "DS/graph.h"
 #include <time.h>
 #include <stdlib.h>
 #include <stdio.h>

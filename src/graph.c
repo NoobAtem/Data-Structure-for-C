@@ -1,4 +1,4 @@
-#include "DS/node.h"
+#include "DS/graph.h"
 #include <string.h>
 #include <stdio.h>
 

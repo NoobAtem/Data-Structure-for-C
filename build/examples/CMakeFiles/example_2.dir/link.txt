@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/example_2.dir/example_2.c.o -o ../bin/example_2  ../bin/libDS.a 

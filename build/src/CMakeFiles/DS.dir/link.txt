@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../bin/libDS.a CMakeFiles/DS.dir/array.c.o CMakeFiles/DS.dir/graph.c.o CMakeFiles/DS.dir/utils.c.o
+/usr/bin/ranlib ../bin/libDS.a

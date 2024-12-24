@@ -1,5 +1,5 @@
-#ifndef DS_NODE_H
-#define DS_NODE_H
+#ifndef DS_GRAPH_H
+#define DS_GRAPH_H
 
 #include "utils.h"
 
@@ -9,6 +9,11 @@ struct Node {
   size_t size;
   struct Node* next;
 };
+
+struct BTree {
+  Node* value;
+  BTree* left, *right;
+}
 
 //
 // Functionality
